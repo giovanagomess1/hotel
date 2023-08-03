@@ -1,0 +1,39 @@
+<div className="Section1" style={{width: 1552, height: 889, background: 'white'}}>
+  <div className="Group" style={{width: 33.03, height: 36.96, left: 8.98, top: 11.27, position: 'absolute'}}>
+    <div className="Vector" style={{width: 24.13, height: 28.09, left: 4.45, top: 0, position: 'absolute', background: 'white'}}></div>
+    <div className="Vector" style={{width: 29.36, height: 28.72, left: 1.83, top: 6.08, position: 'absolute', background: 'white'}}></div>
+    <div className="Vector" style={{width: 33.03, height: 8.26, left: 0, top: 28.70, position: 'absolute', background: 'white'}}></div>
+    <div className="Vector" style={{width: 7.56, height: 6.11, left: 12.74, top: 28.70, position: 'absolute', background: 'white'}}></div>
+  </div>
+  <div className="Vector" style={{width: 506.90, height: 720.76, left: 564, top: 111, position: 'absolute', background: 'black'}}></div>
+  <div className="Vector" style={{width: 351.82, height: 54.68, left: 631.87, top: 698.56, position: 'absolute', background: '#3399CC'}}></div>
+  <div className="Vector" style={{width: 44.53, height: 31.55, left: 658.26, top: 709.95, position: 'absolute', background: 'white'}}></div>
+  <div className="AdicionarFuncionRio" style={{left: 713.13, top: 713.27, position: 'absolute', color: 'white', fontSize: 22.71, fontFamily: 'Inter', fontWeight: '500', lineHeight: 34.07, wordWrap: 'break-word'}}>Adicionar funcionário</div>
+  <div className="AdicionarCliente" style={{left: 666.46, top: 128.51, position: 'absolute', color: 'black', fontSize: 32.81, fontFamily: 'Inter', fontWeight: '500', lineHeight: 49.22, wordWrap: 'break-word'}}>Adicionar Cliente</div>
+  <div className="Id" style={{left: 617.88, top: 377.54, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', lineHeight: 24, wordWrap: 'break-word'}}>Id:</div>
+  <div className="Vector" style={{width: 381.20, height: 0, left: 618.25, top: 408.62, position: 'absolute', border: '0.39px black solid'}}></div>
+  <div className="Vector" style={{width: 381.20, height: 0, left: 618.25, top: 440.19, position: 'absolute', border: '0.39px black solid'}}></div>
+  <div className="Vector" style={{width: 31.58, height: 0, left: 618.25, top: 409, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.39px black solid'}}></div>
+  <div className="Vector" style={{width: 31.58, height: 0, left: 999.02, top: 408.63, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.39px black solid'}}></div>
+  <div className="Email" style={{left: 617.87, top: 292.45, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', lineHeight: 24, wordWrap: 'break-word'}}>Email:</div>
+  <div className="Vector" style={{width: 381.20, height: 0, left: 617.48, top: 319.56, position: 'absolute', border: '0.39px black solid'}}></div>
+  <div className="Vector" style={{width: 381.20, height: 0, left: 617.48, top: 351.13, position: 'absolute', border: '0.39px black solid'}}></div>
+  <div className="Vector" style={{width: 31.58, height: 0, left: 617.48, top: 319.93, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.39px black solid'}}></div>
+  <div className="Vector" style={{width: 31.58, height: 0, left: 998.25, top: 319.56, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.39px black solid'}}></div>
+  <div className="NomeDoCliente" style={{left: 620.26, top: 203.50, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', lineHeight: 24, wordWrap: 'break-word'}}>Nome do cliente:</div>
+  <div className="Vector" style={{width: 381.20, height: 0, left: 617.48, top: 234.46, position: 'absolute', border: '0.39px black solid'}}></div>
+  <div className="Vector" style={{width: 381.20, height: 0, left: 617.48, top: 266.04, position: 'absolute', border: '0.39px black solid'}}></div>
+  <div className="Vector" style={{width: 31.58, height: 0, left: 617.48, top: 234.84, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.39px black solid'}}></div>
+  <div className="Vector" style={{width: 31.58, height: 0, left: 998.25, top: 234.47, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.39px black solid'}}></div>
+  <div className="Telefone" style={{left: 618.65, top: 469.95, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', lineHeight: 24, wordWrap: 'break-word'}}>Telefone:</div>
+  <div className="Vector" style={{width: 381.20, height: 0, left: 619.02, top: 501.03, position: 'absolute', border: '0.39px black solid'}}></div>
+  <div className="Vector" style={{width: 381.20, height: 0, left: 619.02, top: 532.60, position: 'absolute', border: '0.39px black solid'}}></div>
+  <div className="Vector" style={{width: 31.58, height: 0, left: 619.02, top: 501.41, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.39px black solid'}}></div>
+  <div className="Vector" style={{width: 31.58, height: 0, left: 999.79, top: 501.04, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.39px black solid'}}></div>
+  <div className="Cidade" style={{left: 619.42, top: 573.14, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', lineHeight: 24, wordWrap: 'break-word'}}>Cidade</div>
+  <div className="Vector" style={{width: 381.20, height: 0, left: 619.79, top: 604.23, position: 'absolute', border: '0.39px black solid'}}></div>
+  <div className="Vector" style={{width: 381.20, height: 0, left: 619.79, top: 635.80, position: 'absolute', border: '0.39px black solid'}}></div>
+  <div className="Vector" style={{width: 31.58, height: 0, left: 619.79, top: 604.60, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.39px black solid'}}></div>
+  <div className="Vector" style={{width: 31.58, height: 0, left: 1000.56, top: 604.23, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.39px black solid'}}></div>
+  <div className="OceanBlueHotel" style={{left: 66, top: 11, position: 'absolute', color: 'white', fontSize: 25.90, fontFamily: 'Inter', fontWeight: '500', lineHeight: 38.86, wordWrap: 'break-word'}}>Ocean Blue Hotel<br/> </div>
+</div>
