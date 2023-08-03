@@ -1,0 +1,45 @@
+<div className="Section1" style={{width: 2728, height: 1473, background: 'white'}}>
+  <div className="Group" style={{width: 58.06, height: 64.96, left: 80.67, top: 14.43, position: 'absolute'}}>
+    <div className="Vector" style={{width: 42.41, height: 49.38, left: 7.82, top: 0, position: 'absolute', background: 'white'}}></div>
+    <div className="Vector" style={{width: 51.60, height: 50.48, left: 3.22, top: 10.69, position: 'absolute', background: 'white'}}></div>
+    <div className="Vector" style={{width: 58.06, height: 14.52, left: 0, top: 50.44, position: 'absolute', background: 'white'}}></div>
+    <div className="Vector" style={{width: 13.28, height: 10.74, left: 22.39, top: 50.44, position: 'absolute', background: 'white'}}></div>
+  </div>
+  <div className="ProcurarQuarto" style={{width: 308, height: 56, left: 364, top: 274, position: 'absolute', color: 'black', fontSize: 32.80, fontFamily: 'Inter', fontWeight: '500', lineHeight: 49.20, wordWrap: 'break-word'}}>Procurar Quarto</div>
+  <div className="Vector" style={{width: 551, height: 709, left: 203, top: 250, position: 'absolute', background: 'black'}}></div>
+  <div className="Vector" style={{width: 475, height: 0, left: 243, top: 501, position: 'absolute', border: '0.74px black solid'}}></div>
+  <div className="Vector" style={{width: 476, height: 0, left: 244, top: 537, position: 'absolute', border: '0.74px black solid'}}></div>
+  <div className="Vector" style={{width: 35, height: 0, left: 244, top: 502, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.74px black solid'}}></div>
+  <div className="Vector" style={{width: 35, height: 0, left: 719, top: 502, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.74px black solid'}}></div>
+  <div className="Vector" style={{width: 476, height: 0, left: 244, top: 398, position: 'absolute', border: '0.68px black solid'}}></div>
+  <div className="Vector" style={{width: 476, height: 0, left: 244, top: 433, position: 'absolute', border: '0.68px black solid'}}></div>
+  <div className="Vector" style={{width: 35, height: 0, left: 244, top: 398, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.67px black solid'}}></div>
+  <div className="Vector" style={{width: 35, height: 0, left: 718, top: 398, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.67px black solid'}}></div>
+  <div className="Vector" style={{width: 476, height: 0, left: 241, top: 606, position: 'absolute', border: '0.68px black solid'}}></div>
+  <div className="Vector" style={{width: 476, height: 0, left: 241, top: 641, position: 'absolute', border: '0.68px black solid'}}></div>
+  <div className="Vector" style={{width: 35, height: 0, left: 241, top: 606, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.67px black solid'}}></div>
+  <div className="Vector" style={{width: 35, height: 0, left: 716, top: 606, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.67px black solid'}}></div>
+  <div className="Vector" style={{width: 475, height: 0, left: 244, top: 713, position: 'absolute', border: '0.74px black solid'}}></div>
+  <div className="Vector" style={{width: 475, height: 0, left: 244, top: 749, position: 'absolute', border: '0.74px black solid'}}></div>
+  <div className="Vector" style={{width: 35, height: 0, left: 244, top: 714, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.74px black solid'}}></div>
+  <div className="Vector" style={{width: 36, height: 0, left: 718, top: 713, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', border: '0.74px black solid'}}></div>
+  <div className="Rectangle" style={{width: 1502.64, height: 1053.81, left: 973, top: 176, position: 'absolute'}} />
+  <div className="Vector" style={{width: 439, height: 61, left: 264, top: 804, position: 'absolute', background: '#3399CC'}}></div>
+  <div className="Group" style={{width: 37.11, height: 32.01, left: 667.04, top: 608.76, position: 'absolute'}}>
+    <div className="Vector" style={{width: 37.11, height: 30.49, left: 0, top: 1.52, position: 'absolute', background: 'black'}}></div>
+    <div className="Vector" style={{width: 37.11, height: 10.67, left: 0, top: 1.52, position: 'absolute', background: 'black'}}></div>
+    <div className="Vector" style={{width: 26.99, height: 24.39, left: 5.06, top: 0, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <div className="OceanBlueHotel" style={{left: 154.74, top: 9.23, position: 'absolute', color: 'white', fontSize: 45.53, fontFamily: 'Inter', fontWeight: '500', lineHeight: 68.29, wordWrap: 'break-word'}}>Ocean Blue Hotel<br/> </div>
+  <div className="TipoDeQuarto" style={{width: 141, height: 27, left: 245, top: 464, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', lineHeight: 24, wordWrap: 'break-word'}}>Tipo de Quarto</div>
+  <div className="Cliente" style={{width: 72, height: 27, left: 241, top: 361, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', lineHeight: 24, wordWrap: 'break-word'}}>Cliente:</div>
+  <div className="DataEntrada" style={{width: 127, height: 27, left: 242, top: 568, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', lineHeight: 24, wordWrap: 'break-word'}}>Data Entrada:</div>
+  <div className="DataSaDa" style={{width: 107, height: 27, left: 241, top: 676, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', lineHeight: 24, wordWrap: 'break-word'}}>Data Saída:</div>
+  <div className="ListaDeDisponibilidade" style={{width: 325, height: 38, left: 316, top: 816, position: 'absolute'}}><span style="color: 'white', fontSize: 22.25, fontFamily: 'Inter', fontWeight: '500', lineHeight: 33.38, wordWrap: 'break-word'">Lista</span><span style="color: 'white', fontSize: 14.11, fontFamily: 'Inter', fontWeight: '500', lineHeight: 21.16, wordWrap: 'break-word'"> </span><span style="color: 'white', fontSize: 22.25, fontFamily: 'Inter', fontWeight: '500', lineHeight: 33.38, wordWrap: 'break-word'">  </span><span style="color: 'white', fontSize: 14.11, fontFamily: 'Inter', fontWeight: '500', lineHeight: 21.16, wordWrap: 'break-word'"> </span><span style="color: 'white', fontSize: 22.25, fontFamily: 'Inter', fontWeight: '500', lineHeight: 33.38, wordWrap: 'break-word'">de Disponibilidade</span></div>
+  <div className="Group" style={{width: 37.11, height: 32.01, left: 667.04, top: 717.63, position: 'absolute'}}>
+    <div className="Vector" style={{width: 37.11, height: 30.49, left: 0, top: 1.52, position: 'absolute', background: 'black'}}></div>
+    <div className="Vector" style={{width: 37.11, height: 10.67, left: 0, top: 1.52, position: 'absolute', background: 'black'}}></div>
+    <div className="Vector" style={{width: 26.99, height: 24.39, left: 5.06, top: 0, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <div style={{width: 25, height: 61, left: 717, top: 509, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', color: 'black', fontSize: 32.43, fontFamily: 'Inter', fontWeight: '500', lineHeight: 48.64, wordWrap: 'break-word'}}>></div>
+</div>
