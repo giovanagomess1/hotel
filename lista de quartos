@@ -1,0 +1,51 @@
+<div className="Section1" style={{width: 1272, height: 696, background: 'white'}}>
+  <div className="Group" style={{width: 26.68, height: 29.85, left: 35.31, top: 6.71, position: 'absolute'}}>
+    <div className="Vector" style={{width: 19.49, height: 22.69, left: 3.59, top: -0, position: 'absolute', background: 'white'}}></div>
+    <div className="Vector" style={{width: 23.71, height: 23.20, left: 1.48, top: 4.91, position: 'absolute', background: 'white'}}></div>
+    <div className="Vector" style={{width: 26.68, height: 6.67, left: -0, top: 23.18, position: 'absolute', background: 'white'}}></div>
+    <div className="Vector" style={{width: 6.10, height: 4.93, left: 10.29, top: 23.18, position: 'absolute', background: 'white'}}></div>
+  </div>
+  <div className="Vector" style={{width: 210.91, height: 32.34, left: 892.34, top: 417.85, position: 'absolute', background: '#3399CC'}}></div>
+  <div className="Text" style={{left: 1114.78, top: 381.06, position: 'absolute', color: 'black', fontSize: 43.12, fontFamily: 'Inter', fontWeight: '500', lineHeight: 64.68, wordWrap: 'break-word'}}> </div>
+  <div className="AdicionarQuartos" style={{left: 922.40, top: 423.99, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', lineHeight: 24, wordWrap: 'break-word'}}>Adicionar Quartos</div>
+  <div className="Vector" style={{width: 883.76, height: 0, left: 154.88, top: 268.55, position: 'absolute', border: '0.31px black solid'}}></div>
+  <div className="Vector" style={{width: 883.76, height: 0, left: 154.88, top: 381.40, position: 'absolute', border: '0.31px black solid'}}></div>
+  <div className="Vector" style={{width: 111.96, height: 0, left: 154.88, top: 379.84, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', border: '0.31px black solid'}}></div>
+  <div className="Vector" style={{width: 111.95, height: 0, left: 1038.88, top: 382.33, position: 'absolute', transform: 'rotate(-90.64deg)', transformOrigin: '0 0', border: '0.31px black solid'}}></div>
+  <div className="Vector" style={{width: 882.50, height: 0, left: 156.13, top: 311.02, position: 'absolute', border: '0.31px black solid'}}></div>
+  <div className="Vector" style={{width: 881.89, height: 0, left: 156.44, top: 346.91, position: 'absolute', border: '0.31px black solid'}}></div>
+  <div className="Vector" style={{width: 112.58, height: 0, left: 415.30, top: 380.15, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', border: '0.31px black solid'}}></div>
+  <div className="Vector" style={{width: 112.58, height: 0, left: 652.93, top: 380.15, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', border: '0.31px black solid'}}></div>
+  <div className="Vector" style={{width: 112.58, height: 0, left: 873.48, top: 380.15, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', border: '0.31px black solid'}}></div>
+  <div className="TipoDoQuarto" style={{left: 216.97, top: 277.26, position: 'absolute', color: 'black', fontSize: 18.47, fontFamily: 'Inter', fontWeight: '500', lineHeight: 27.71, wordWrap: 'break-word'}}>Tipo do quarto</div>
+  <div className="PreO" style={{left: 520.01, top: 277.26, position: 'absolute', color: 'black', fontSize: 18.47, fontFamily: 'Inter', fontWeight: '500', lineHeight: 27.71, wordWrap: 'break-word'}}>Preço</div>
+  <div className="DescriO" style={{left: 741.38, top: 277.26, position: 'absolute', color: 'black', fontSize: 18.47, fontFamily: 'Inter', fontWeight: '500', lineHeight: 27.71, wordWrap: 'break-word'}}>Descrição</div>
+  <div className="AEs" style={{left: 931.38, top: 277.26, position: 'absolute', color: 'black', fontSize: 18.47, fontFamily: 'Inter', fontWeight: '500', lineHeight: 27.71, wordWrap: 'break-word'}}>Ações</div>
+  <div className="Group" style={{width: 24.25, height: 24.25, left: 951.14, top: 318.18, position: 'absolute'}}>
+    <div className="Vector" style={{width: 24.25, height: 24.25, left: 0, top: 0, position: 'absolute', background: '#B52E28'}}></div>
+    <div className="Vector" style={{width: 10.54, height: 10.54, left: 6.86, top: 6.86, position: 'absolute', background: 'black'}}></div>
+    <div className="Vector" style={{width: 10.54, height: 10.54, left: 6.86, top: 6.86, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <div className="Group" style={{width: 23.50, height: 22.86, left: 918.65, top: 318.26, position: 'absolute'}}>
+    <div className="Vector" style={{width: 18.18, height: 18.40, left: 5.32, top: 0, position: 'absolute', background: '#3399CC'}}></div>
+    <div className="Vector" style={{width: 18.68, height: 18.95, left: 0, top: 3.91, position: 'absolute', background: '#3399CC'}}></div>
+  </div>
+  <div className="Group" style={{width: 24.25, height: 24.25, left: 951.14, top: 351.65, position: 'absolute'}}>
+    <div className="Vector" style={{width: 24.25, height: 24.25, left: 0, top: 0, position: 'absolute', background: '#B52E28'}}></div>
+    <div className="Vector" style={{width: 10.54, height: 10.54, left: 6.86, top: 6.86, position: 'absolute', background: 'black'}}></div>
+    <div className="Vector" style={{width: 10.54, height: 10.54, left: 6.86, top: 6.86, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <div className="Group" style={{width: 23.50, height: 22.86, left: 918.65, top: 351.72, position: 'absolute'}}>
+    <div className="Vector" style={{width: 18.18, height: 18.40, left: 5.32, top: -0, position: 'absolute', background: '#3399CC'}}></div>
+    <div className="Vector" style={{width: 18.68, height: 18.95, left: 0, top: 3.91, position: 'absolute', background: '#3399CC'}}></div>
+  </div>
+  <div className="Group" style={{width: 112.57, height: 77.10, left: 372.08, top: 149.59, position: 'absolute'}}>
+    <div className="Vector" style={{width: 32.05, height: 11.85, left: 14.83, top: 12.63, position: 'absolute', background: 'black'}}></div>
+    <div className="Vector" style={{width: 38.41, height: 9.50, left: 37.08, top: 5.26, position: 'absolute', background: 'black'}}></div>
+    <div className="Vector" style={{width: 95.62, height: 24.47, left: 8.47, top: -0, position: 'absolute', background: 'black'}}></div>
+    <div className="Vector" style={{width: 32.05, height: 11.85, left: 65.68, top: 12.63, position: 'absolute', background: 'black'}}></div>
+    <div className="Vector" style={{width: 112.57, height: 67.25, left: 0, top: 9.85, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <div className="OceanBlueHotel" style={{left: 69, top: 7.89, position: 'absolute', color: 'white', fontSize: 20.92, fontFamily: 'Inter', fontWeight: '500', lineHeight: 31.38, wordWrap: 'break-word'}}>Ocean Blue Hotel<br/> </div>
+  <div className="Quartos" style={{left: 503.23, top: 159.98, position: 'absolute', color: 'black', fontSize: 46.12, fontFamily: 'Inter', fontWeight: '500', lineHeight: 69.18, wordWrap: 'break-word'}}>Quartos</div>
+</div>
